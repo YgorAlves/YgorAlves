@@ -32,3 +32,4 @@ Contact Info:
 
 - Discord: `Barboza#2690`
 - Email: ybarbozalves@gmail.com
+- https://www.linkedin.com/in/ygor-barboza-alves/
