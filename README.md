@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <!-- <details>
   <summary>Stats</summary> -->
 <a href="https://github.com/YgorAlves">
-  <img src="https://github-readme-stats.vercel.app/api?username=ygoralves&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorAlves&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/YgorAlves">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ygoralves&show_icons=true&theme=dracula" />
 </a>
 <!-- </details> -->
   
