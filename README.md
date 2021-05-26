@@ -12,22 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/Daggy1234">
+# Hello, i am Ygor
+
+#### Skills
+~~In maintence~~
+
+#### Github Stats
+<details>
+  <summary>Stats</summary>
+</details>
+
+<a href="https://github.com/YgorAlves">
+  <img src="https://github-readme-stats.vercel.app/api?username=ygoralves&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/YgorAlves">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&theme=dracula" />
 </a>
+<a href="https://github.com/YgorAlves">
+  <img src="https://raw.githubusercontent.com/ygoralves/generate-stats/master/generated/languages.svg" />
+</a>
 
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-    <tr>
-    <td>
-      <a href="https://github.com/Daggy1234">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&theme=dracula" />
-      </a>
-    </td>
-  </td>
-  <tr>
-  <tr>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ygoralves&show_icons=true&theme=dracula" />
-    </td>
-  </tr>
-</table>
+Contact Info:
+
+- Discord: `Barboza#2690`
+- Email: ybarbozalves@gmail.com
