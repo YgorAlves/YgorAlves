@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/YgorAlves">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&theme=dracula" />
 </a>
-<a href="https://github.com/YgorAlves">
-  <img src="https://raw.githubusercontent.com/ygoralves/generate-stats/master/generated/languages.svg" />
-</a>
 <!-- </details> -->
   
 Contact Info:
