@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 </a>
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td>
+      <a href="https://github.com/Daggy1234">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&theme=dracula" />
+      </a>
+    </td>
+  </td>
+  <tr>
   <tr>
     <td align="center">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=ygoralves&show_icons=true&theme=dracula" />
