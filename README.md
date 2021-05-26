@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 #### Github Stats
 <details>
   <summary>Stats</summary>
-</details>
 
 <a href="https://github.com/YgorAlves">
   <img src="https://github-readme-stats.vercel.app/api?username=ygoralves&show_icons=true&theme=dracula" />
@@ -31,7 +30,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/YgorAlves">
   <img src="https://raw.githubusercontent.com/ygoralves/generate-stats/master/generated/languages.svg" />
 </a>
-
+</details>
+  
 Contact Info:
 
 - Discord: `Barboza#2690`
