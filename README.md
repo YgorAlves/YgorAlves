@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact" />
+</a>
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
