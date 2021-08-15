@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, i am Ygor
+# Hello, I am Ygor
 
 #### Skills
 ~~In maintence~~
