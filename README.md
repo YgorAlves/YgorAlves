@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/YgorAlves">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorAlves&layout=compact&theme=dracula" />
 </a>
-<a href="https://github.com/YgorAlves">
-  <img src="https://github-readme-stats.vercel.app/api?username=ygoralves&show_icons=true&theme=dracula" />
-</a>
 <!-- </details> -->
   
 Contact Info:
