@@ -1,4 +1,4 @@
-### Olá, me chamo Ygor, seja bem vindo(a) ao meu perfil!
+### Hello, i am Ygor and it's a pleasure to have you here, welcome!!
 
 <div align="center">
   <a href="https://github.com/YgorAlves">
