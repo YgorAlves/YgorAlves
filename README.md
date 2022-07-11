@@ -1,4 +1,4 @@
-### Hello, i am Ygor and it's a pleasure to have you here, welcome!!
+### Hey! I'm a cat lover and outgoing guy, and also a Backend Software Engineer with some frontend experience. Aspiring to always be open-minded and solution-oriented, keeping my eagerness to learn new things.
 
 <div align="center">
   <a href="https://github.com/YgorAlves">
