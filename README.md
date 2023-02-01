@@ -9,4 +9,4 @@ I have experience in Agile development and Scrum methodologies.
 
 Feel free to check out some of my projects (pinned or not) on Github: https://github.com/YgorAlves
 Please email me at ygoralves.dev@gmail.com
-Or just message/connect here on LinkedIn :)
+Or just message/connect on LinkedIn: https://www.linkedin.com/in/ygor-barboza-alves/
